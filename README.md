@@ -9,15 +9,10 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DBOYttt](https://github.com/DBOYttt)
 
-- 📫 How to reach me **discord(D-BOY#2210) or andrzejn041@gmail.com**
+- 📫 How to contact me **discord(D-BOY#2210) or andrzejn041@gmail.com**
 
 - ⚡ Fun fact **the bugs can survive atomic bomb explosions**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/andrzej nazim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andrzej nazim" height="30" width="40" /></a>
-<a href="https://discord.gg/d-boy#2210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="d-boy#2210" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
