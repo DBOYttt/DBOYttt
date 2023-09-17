@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Andrzej Nazim</h1>
 <h3 align="center">A passionate developer wannabe from Poland</h3>
 
-- 🔭 I’m currently working on [T.O.B.I](https://github.com/DBOYttt/T.O.B.I-the-interactive-IA)
-
-- 🌱 I’m currently learning **Python and JS**
-
-- 🤝 I’m looking for help with [T.O.B.I](https://github.com/DBOYttt/T.O.B.I-the-interactive-IA)
+- 🌱 I’m currently learning **Rast, C , C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DBOYttt](https://github.com/DBOYttt)
 
-- 📫 How to contact me **discord(D-BOY#2210) or andrzejn041@gmail.com**
+- 📫 How to contact me **discord(dboy_.) or andrzejn041@gmail.com**
 
 - ⚡ Fun fact **the bugs can survive atomic bomb explosions**
 
